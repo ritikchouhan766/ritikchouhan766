@@ -75,7 +75,7 @@ PostgreSQL, MySQL, SQL Server, Git, Postman, SonarQube, Pytest
 ---
 
 ## Contact
-- Phone: 91 6377216003  
+- Phone: +91-6377216003  
 - Email: ritikchouhan373@gmail.com  
 - LinkedIn: https://linkedin.com/in/ritik-chouhan-4a297b192  
 
